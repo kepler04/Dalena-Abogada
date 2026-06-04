@@ -372,7 +372,7 @@ img, svg { display: block; max-width: 100%; }
   .hero__aside--right { order: 2; }
   .hero__arrow { display: none; }
   .hero__gavel { display: none; }
-  .hero__badge { position: static; order: 3; margin-top: .4rem; }
+  .hero__badge { position: relative; order: 3; margin-top: 1rem; }
 }
 
 @media (max-width: 560px) {
