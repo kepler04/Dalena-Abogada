@@ -1,0 +1,12 @@
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Artefactos de desarrollo (capturas, backups)
+assets/images/_*.png
+
+# Tooling de Claude Code (no se despliega)
+.agents/
+skills-lock.json
