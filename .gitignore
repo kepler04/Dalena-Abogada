@@ -7,6 +7,6 @@ desktop.ini
 # Artefactos de desarrollo (capturas, backups)
 assets/images/_*.png
 
-# Tooling de Claude Code (no se despliega)
+# Herramientas locales / editor (no se despliegan)
 .agents/
 skills-lock.json

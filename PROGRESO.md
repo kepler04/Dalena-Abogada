@@ -28,5 +28,5 @@ Estado: **sitio completo, pulido y listo para desplegar.** (Actualizado: 2026-06
 - Verificar teléfono/WhatsApp: `wa.me/51978497788` y `legaldalena@gmail.com`.
 - Nota: licencias de imágenes (estatua/mazo) para uso comercial.
 
-## ▶️ Reanudar conversación
-Terminal en esta carpeta: `claude --continue` (o `claude --resume`).
+## ▶️ Ver en local
+Abre `index.html` en el navegador, o sirve la carpeta con `python -m http.server 8000`.
